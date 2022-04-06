@@ -1,0 +1,22 @@
+.keyboard{
+    /* border: 1px solid red; */
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* margin: 0 auto; */
+    margin: 30px auto 0px;
+}
+
+.line1, 
+.line2,
+.line3{
+    display: flex;
+    margin: 5px 0;
+}
+
+.line1 > *,
+.line2 > *, 
+.line3 > *{
+    margin: 0 5px;
+}

@@ -1,0 +1,11 @@
+#error{
+    background: lightslategray;    
+}
+
+#correct{
+    background: lime;
+}
+
+#almost{
+    background: yellow;
+}
